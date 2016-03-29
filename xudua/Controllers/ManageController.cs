@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using xudua.Models;
+using XuDua.Models;
 
-namespace xudua.Controllers
+namespace XuDua.Controllers
 {
     [Authorize]
     public class ManageController : Controller

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace xudua.Models
+namespace XuDua.Models
 {
     public class IndexViewModel
     {

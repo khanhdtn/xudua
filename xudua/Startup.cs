@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(xudua.Startup))]
-namespace xudua
+[assembly: OwinStartupAttribute(typeof(XuDua.Startup))]
+namespace XuDua
 {
     public partial class Startup
     {

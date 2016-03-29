@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace xudua.Models
+namespace XuDua.Models
 {
     public class ExternalLoginConfirmationViewModel
     {
