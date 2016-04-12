@@ -1,7 +1,6 @@
-﻿using System.Web;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
-namespace xudua
+namespace XuDua
 {
     public class BundleConfig
     {
