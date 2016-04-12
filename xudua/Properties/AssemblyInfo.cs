@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("XuDua")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MRK")]
+[assembly: AssemblyCompany("OSD")]
 [assembly: AssemblyProduct("XuDua")]
-[assembly: AssemblyCopyright("Copyright © MRK 2015")]
+[assembly: AssemblyCopyright("Copyright © OSD 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e074e87b-778d-4fc7-bb64-cdd624cf0a73")]
+[assembly: Guid("e932af83-01ee-4610-9295-861716c54cc0")]
 
 // Version information for an assembly consists of the following four values:
 //
